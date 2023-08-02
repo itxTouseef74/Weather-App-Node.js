@@ -45,7 +45,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Run the application:
    ```bash
-   npm i to install nodemoduel
+   npm i 
    ````
     ```bash
    npm start
