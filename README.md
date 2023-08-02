@@ -71,6 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - The Weather App was inspired by the desire to learn more about Node.js and API integrations.
 
----
 
-Feel free to customize this template according to your project's specific details and requirements. 
