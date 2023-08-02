@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(38, 154, 27, 0.124);
+}
+.fa-sun {
+margin-top:10%;
+padding-left:37%;
+margin-bottom: 10%;
+font-size: 450%;
+color:orange ;
+}
+.fa-street-view{
+padding-left:5%;
+margin-bottom: 20%;
+font-size: 450%;
+/* color: white; */
+}
+.card {
+    width: 20em;
+    height: 30em;
+    margin-top: 100px;
+    margin-left: 40%;
+    /* box-shadow: 2px 2px 2px; */
+    /* background-color: #47b18c; */
+    display: inline-block;
+    background: rgba( 255, 255, 255, 0.1 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13px );
+    -webkit-backdrop-filter: blur( 13px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+  }
+  .card:hover {
+    box-shadow: 2px 2px 5px;
+  }
+#date{
+    padding-left: 20px;
+}
+.temp{
+    padding-left: 20px;
+}
+.tempmin-max{
+    padding-left: 20px;
+}

@@ -1,0 +1,45 @@
+
+{
+"coord": {
+"lon": 71.6833,
+"lat": 29.4
+},
+"weather": [
+{
+"id": 802,
+"main": "Clouds",
+"description": "scattered clouds",
+"icon": "03n"
+}
+],
+"base": "stations",
+"main": {
+"temp": 310.06,
+"feels_like": 313.78,
+"temp_min": 310.06,
+"temp_max": 310.06,
+"pressure": 996,
+"humidity": 39,
+"sea_level": 996,
+"grnd_level": 983
+},
+"visibility": 10000,
+"wind": {
+"speed": 4.09,
+"deg": 214,
+"gust": 8.21
+},
+"clouds": {
+"all": 30
+},
+"dt": 1690823535,
+"sys": {
+"country": "PK",
+"sunrise": 1690763538,
+"sunset": 1690812413
+},
+"timezone": 18000,
+"id": 1183880,
+"name": "Bahawalpur",
+"cod": 200
+}
